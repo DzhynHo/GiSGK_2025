@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Link do zadania
-➡️ [Zadanie domowe nr 1](TU_WKLEJ_LINK_DO_OPISU_LUB_PLATFORMY)
+➡️ [Zadanie domowe nr 1](https://github.com/DzhynHo/GiSGK_2025/blob/main/Tor%20przeszk%C3%B3d.zip)
 
 ---
 
